@@ -12,7 +12,7 @@
 [1. 입력된 텍스트](#1-입력된-텍스트)<br>
 [2. 질문에 대한 텍스트 답을 내는 과정](#2-질문에-대한-텍스트-답을-내는-과정)<br>
 [3. 데이터 학습](#3-데이터-학습)<br>
-[4. Transformer](#4-Transformer(-아키텍처-))<br><br>
+[4. Transformer](#4-Transformer)<br><br>
 
 
 
@@ -39,7 +39,8 @@
 
 <br>
 
-## 4. Transformer( 아키텍처 )
+## 4. Transformer
+생성형 ai 아키텍쳐의 일종<br>
 인코더(encoder)와 디코더(decoder)로 구성<br>
 <br>
 인코더는 입력 시퀀스를 이해 <br>
