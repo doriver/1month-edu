@@ -1,4 +1,4 @@
-# MTV패턴을 이용한 작은 결과물
+# Django MTV(Model-Template-View)패턴
 ## 작은 결과물
 * [사진 목록 보기]()
 * [Todo List]()
