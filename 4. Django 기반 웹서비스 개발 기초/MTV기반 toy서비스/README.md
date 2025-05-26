@@ -3,7 +3,7 @@
 * [사진 목록 보기]()
 * [Todo List]()
 ## Django, MTV 개요
-
+![MTV](https://github.com/user-attachments/assets/308666a3-7616-4aa9-83cc-ebb96a926231)
 * 가상환경 설정
 ```bash
   python -m venv [가상환경 이름]
