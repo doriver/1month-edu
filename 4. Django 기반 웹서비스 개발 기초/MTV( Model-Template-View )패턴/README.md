@@ -1,7 +1,7 @@
 # Django MTV( Model-Template-View )패턴
 ## MTV패턴을 이용한 작은 결과물
-* [사진 목록 보기](https://github.com/doriver/djangoPractice01/tree/main/django01)
-* [Todo List](https://github.com/doriver/djangoPractice01/tree/main/django02)
+* [사진 목록 보기](https://github.com/doriver/PythonSkill01/tree/master/Django/MTV01)
+* [Todo List](https://github.com/doriver/PythonSkill01/tree/master/Django/MTV02)
 ## Django, MTV 개요
 ![MTV](https://github.com/user-attachments/assets/308666a3-7616-4aa9-83cc-ebb96a926231)
 * 가상환경 설정
