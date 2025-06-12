@@ -1,6 +1,6 @@
 # LLM 연동 개발
-## [Ollama 설치, 간단한 사용]()
-## [OpenAI API활용]()
+## [Ollama 설치, 간단한 사용](https://github.com/doriver/1month-edu/tree/main/5.%20LLM%20%EC%97%B0%EB%8F%99%20%EA%B0%9C%EB%B0%9C/Ollama%20%EC%84%A4%EC%B9%98%2C%20%EA%B0%84%EB%8B%A8%ED%95%9C%20%EC%82%AC%EC%9A%A9)
+## [OpenAI API활용](https://github.com/doriver/1month-edu/tree/main/5.%20LLM%20%EC%97%B0%EB%8F%99%20%EA%B0%9C%EB%B0%9C/OpenAI%20API%ED%99%9C%EC%9A%A9)
 ## LangChain
 * 대규모 언어 모델(LLM)을 활용하여 애플리케이션을 개발하기 위한 오픈 소스 프레임워크
   * 현재, 수많은 AI 서비스가 LLM + LangChain 기반으로 개발, 운영되고 있음
