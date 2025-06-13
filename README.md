@@ -21,4 +21,4 @@
 ### 3. [프롬프트 활용](https://github.com/doriver/1month-edu/tree/main/3.%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%ED%99%9C%EC%9A%A9) 
 ### 4. [Django 기반 웹서비스 개발 기초](https://github.com/doriver/1month-edu/tree/main/4.%20Django%20%EA%B8%B0%EB%B0%98%20%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88)
 ### 5. [LLM 연동 개발](https://github.com/doriver/1month-edu/tree/main/5.%20LLM%20%EC%97%B0%EB%8F%99%20%EA%B0%9C%EB%B0%9C)
-### 6. Git, Github 
+### 6. [Git, Github](https://github.com/doriver/1month-edu/tree/main/6.%20Git%2C%20Github) 
